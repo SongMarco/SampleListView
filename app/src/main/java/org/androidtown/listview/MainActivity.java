@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(getApplicationContext(), "선택 : " + item.getName(), Toast.LENGTH_LONG).show();
             }
         });
-///
+///abababadbad
     }
 
     class SingerAdapter extends BaseAdapter {
